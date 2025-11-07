@@ -21,12 +21,9 @@ export default function HeroSection() {
             SUKANYAA
           </h1>
           <p className="text-4xl md:text-5xl lg:text-6xl font-serif text-white/90">&</p>
-          <div className="relative inline-block">
-            <div className="absolute -left-12 -top-8 w-48 h-48 md:w-64 md:h-64 bg-[#D4AF37] rounded-full -z-10" />
-            <h2 className="text-5xl md:text-7xl lg:text-8xl font-serif text-[#E8D5A0] tracking-wide relative">
-              MONISANKAR
-            </h2>
-          </div>
+          <h2 className="text-5xl md:text-7xl lg:text-8xl font-serif text-white tracking-wide">
+            MONISANKAR
+          </h2>
         </div>
         
         <p className="text-xl md:text-2xl font-light text-white/90 tracking-wide mt-8" data-testid="text-date">
