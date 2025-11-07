@@ -2,7 +2,7 @@ import invitationImage from '@assets/image_1762548091150.png';
 
 export default function InvitationSection() {
   return (
-    <section id="invitation" className="min-h-screen bg-[#E8E4D9] flex items-center justify-center py-20 px-6">
+    <section id="invitation" className="min-h-screen bg-white flex items-center justify-center py-20 px-6">
       <div className="max-w-7xl w-full flex flex-col lg:flex-row items-center justify-between gap-12 lg:gap-16">
         <div className="flex-shrink-0 lg:w-1/5">
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-serif text-black tracking-wide">
