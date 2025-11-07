@@ -16,68 +16,68 @@
 
   --background: 40 15% 96%;
 
-  --foreground: 40 8% 18%;
+  --foreground: 0 0% 17%;
 
   --border: 40 12% 88%;
 
   --card: 40 15% 94%;
 
-  --card-foreground: 40 8% 18%;
+  --card-foreground: 0 0% 17%;
 
   --card-border: 40 12% 86%;
 
-  --sidebar: 40 15% 92%;
+  --sidebar: 0 0% 10%;
 
-  --sidebar-foreground: 40 8% 18%;
+  --sidebar-foreground: 0 0% 100%;
 
-  --sidebar-border: 40 12% 84%;
+  --sidebar-border: 0 0% 20%;
 
-  --sidebar-primary: 45 75% 48%;
+  --sidebar-primary: 45 82% 58%;
 
-  --sidebar-primary-foreground: 45 10% 98%;
+  --sidebar-primary-foreground: 0 0% 17%;
 
-  --sidebar-accent: 40 12% 86%;
+  --sidebar-accent: 0 0% 15%;
 
-  --sidebar-accent-foreground: 40 8% 22%;
+  --sidebar-accent-foreground: 0 0% 100%;
 
-  --sidebar-ring: 45 75% 48%;
+  --sidebar-ring: 45 82% 58%;
 
-  --popover: 40 15% 90%;
+  --popover: 0 0% 10%;
 
-  --popover-foreground: 40 8% 18%;
+  --popover-foreground: 0 0% 100%;
 
-  --popover-border: 40 12% 82%;
+  --popover-border: 0 0% 20%;
 
-  --primary: 45 75% 48%;
+  --primary: 45 82% 58%;
 
-  --primary-foreground: 45 10% 98%;
+  --primary-foreground: 0 0% 17%;
 
   --secondary: 40 12% 84%;
 
-  --secondary-foreground: 40 8% 22%;
+  --secondary-foreground: 0 0% 17%;
 
   --muted: 40 10% 88%;
 
-  --muted-foreground: 40 5% 45%;
+  --muted-foreground: 0 0% 45%;
 
   --accent: 40 12% 86%;
 
-  --accent-foreground: 40 8% 22%;
+  --accent-foreground: 0 0% 17%;
 
   --destructive: 0 72% 42%;
 
-  --destructive-foreground: 0 10% 98%;
+  --destructive-foreground: 0 0% 98%;
 
   --input: 40 15% 72%;
-  --ring: 45 75% 48%;
-  --chart-1: 45 75% 48%;
+  --ring: 45 82% 58%;
+  --chart-1: 45 82% 58%;
   --chart-2: 140 45% 42%;
   --chart-3: 200 55% 45%;
   --chart-4: 280 50% 48%;
   --chart-5: 20 70% 50%;
 
-  --font-sans: Open Sans, sans-serif;
-  --font-serif: Georgia, serif;
+  --font-sans: 'Lato', 'Open Sans', sans-serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
   --font-mono: Menlo, monospace;
   --radius: .5rem; /* 8px */
   --shadow-2xs: 0px 2px 0px 0px hsl(40 15% 20% / 0.00);
