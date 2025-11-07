@@ -10,11 +10,11 @@ export default function InvitationSection() {
           </h2>
         </div>
 
-        <div className="flex-shrink-0 lg:w-1/4">
+        <div className="flex-shrink-0 w-48 md:w-56 lg:w-64">
           <img
             src={invitationImage}
             alt="Couple at waterfall"
-            className="w-full h-auto object-cover"
+            className="w-full h-auto object-cover shadow-md"
             data-testid="img-invitation"
           />
         </div>
