@@ -1,3 +1,5 @@
+import invitationImage from '@assets/image_1762524556952.png';
+
 export default function InvitationSection() {
   return (
     <section id="invitation" className="min-h-screen bg-[#F5F1E8] flex items-center justify-center py-20 px-6">
@@ -11,7 +13,7 @@ export default function InvitationSection() {
         <div className="lg:col-span-5 flex justify-center">
           <div className="w-full max-w-md rounded-lg overflow-hidden shadow-lg">
             <img
-              src="https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=600&h=400&fit=crop"
+              src={invitationImage}
               alt="Couple at waterfall"
               className="w-full h-auto object-cover"
               data-testid="img-invitation"
