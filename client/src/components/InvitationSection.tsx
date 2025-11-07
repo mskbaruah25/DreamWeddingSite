@@ -1,4 +1,4 @@
-import invitationImage from '@assets/image_1762524556952.png';
+import invitationImage from '@assets/image_1762548091150.png';
 
 export default function InvitationSection() {
   return (
