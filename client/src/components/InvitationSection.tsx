@@ -10,7 +10,7 @@ export default function InvitationSection() {
           </h2>
         </div>
 
-        <div className="flex-shrink-0 lg:w-2/5">
+        <div className="flex-shrink-0 lg:w-1/4">
           <img
             src={invitationImage}
             alt="Couple at waterfall"
