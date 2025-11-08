@@ -37,8 +37,8 @@ export default function Home() {
         date="6TH FEB"
         venue="Rishta Wedding Venue, Below Boragaon Flyover, Boragaon, Guwahati 781011"
         timeline={[
-          { time: '9:00 AM', event: 'JJUROON' },
-          { time: '4:30 PM ONWARDS', event: 'WEDDING RITUALS' },
+          { time: '9:00 AM', event: 'JUROON' },
+          { time: '6:30 PM ONWARDS', event: 'WEDDING RITUALS' },
         ]}
         imageUrl={weddingDayImage}
         imageAlt="Wedding Day Celebration"

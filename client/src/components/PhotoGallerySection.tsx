@@ -1,10 +1,10 @@
-import tajMahalImage from '@assets/image_1762524848642.png';
+import tajMahalImage from '@assets/IMG_6818_1762523236766.jpg';
 import ringsImage from '@assets/DSC_4706_1762524863671.jpg';
 
 export default function PhotoGallerySection() {
   return (
-    <section className="grid grid-cols-1 lg:grid-cols-2 h-screen">
-      <div className="relative h-full bg-[#F5F1E8] overflow-hidden">
+    <section className="w-full">
+      <div className="w-full h-screen relative">
         <img
           src={tajMahalImage}
           alt="Couple at Taj Mahal"
@@ -12,8 +12,8 @@ export default function PhotoGallerySection() {
           data-testid="img-gallery-taj"
         />
       </div>
-
-      <div className="relative h-full bg-black overflow-hidden">
+      
+      <div className="w-full h-screen relative">
         <img
           src={ringsImage}
           alt="Wedding rings with henna"

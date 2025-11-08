@@ -4,7 +4,7 @@ export default function HeroSection() {
   return (
     <section
       id="home"
-      className="relative min-h-screen w-full flex items-center justify-center overflow-hidden"
+      className="relative min-h-screen w-full flex items-center justify-center overflow-hidden -mt-[20px]"
     >
       <img
         src={heroImage}
