@@ -5,8 +5,9 @@
   "license": "MIT",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview",
+    "start": "vite preview --host --port $PORT",
     "check": "tsc"
   },
   "dependencies": {
