@@ -23,7 +23,7 @@ export default function InvitationSection() {
 
         <div className="lg:order-3">
           <p className="text-base md:text-lg leading-relaxed text-black text-center lg:text-left" data-testid="text-invitation">
-            Hello there! Hope this finds you in great health. As we are tying the knot on the 6<sup>th</sup> of Feb, 2026, want you to be a part of our wedding celebrations. Please feel free to explore this website as it contains all the important information regarding our wedding celebrations
+            Hello there! Hope this finds you in great health. As we are tying the knot on the 6<sup>th</sup> of Feb, 2026, we want you to be a part of our wedding celebrations. Please feel free to explore this website as it contains all the important information regarding our wedding celebrations
           </p>
         </div>
       </div>

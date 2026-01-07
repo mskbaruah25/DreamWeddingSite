@@ -1,4 +1,4 @@
-import { Flower, Flower2, Bean } from 'lucide-react';
+import { Flower, Flower2 } from 'lucide-react';
 
 export default function SnapshotSection() {
   const events = [
@@ -9,13 +9,8 @@ export default function SnapshotSection() {
     },
     {
       icon: Flower2,
-      title: 'Reception(Groom)',
+      title: 'Reception',
       description: '8th of February, 2026 will be the wedding reception day. Come join us for a night of celebrations',
-    },
-    {
-      icon: Bean,
-      title: 'Reception(Bride)',
-      description: '13th February, 2026. Hosted in the residence of Sukanyaa, join us for further celebrations. Come with another day in hand and you can explore the Eastern Himalayan valleys.',
     },
   ];
 
@@ -26,7 +21,7 @@ export default function SnapshotSection() {
           SNAPSHOT OF EVENTS
         </h2>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           {events.map((event, index) => {
             const Icon = event.icon;
             return (

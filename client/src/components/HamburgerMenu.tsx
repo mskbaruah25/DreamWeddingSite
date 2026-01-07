@@ -7,8 +7,7 @@ const menuItems = [
   { label: "Invitation", id: "invitation" },
   { label: "Snapshot of Events", id: "snapshot" },
   { label: "Wedding Day", id: "wedding-day" },
-  { label: "Reception (Groom)", id: "reception-groom" },
-  { label: "Reception (Bride)", id: "reception-bride" },
+  { label: "Reception", id: "reception" },
   { label: "Thank You", id: "thank-you" },
 ];
 
